@@ -1,5 +1,6 @@
 # OpenAI_feeds
-OpenAI_feeds bot created by chatgpt within 30 mins
+
+[OpenAI_feeds](https://t.me/OpenAI_feeds_bot) bot created by chatgpt within 30 mins
 
 Hi there! I'm a bot CREATED BY CHATGPT WITHIN 30 MINS that provides daily trending posts from the OpenAI subreddit. 
 
