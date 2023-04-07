@@ -10,4 +10,4 @@ Here are the available commands:
 
 /help - see the help messages.
 
-/get_posts [upvote_threshold] - Get today's trending posts from the OpenAI subreddit openAI [with threshold for upvote].
+/get_posts [upvote_threshold] - Get today's trending posts from the OpenAI subreddit openAI [with threshold for upvote(default threshold is 10)].
